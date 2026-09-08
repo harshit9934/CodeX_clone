@@ -1,13 +1,6 @@
 This is the [assistant-ui](https://github.com/assistant-ui/assistant-ui) starter project.
 
-## Getting Started
-
-First, add your OpenAI API key to `.env.local` file:
-
-```
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
-
+live URL : https://code-x-clone-git-main-apex-e99e.vercel.app/
 Then, run the development server:
 
 ```bash
